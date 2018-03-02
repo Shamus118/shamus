@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-S
 I am a 12 year-old boy who loves programming.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I intend to become proficient enough to get a job in InfoSec(Iformation Security) by the age of 20
 
 ### Contact me
 
