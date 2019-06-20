@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am a 12 year-old boy who loves programming.
+I am a 14 years old, I made this website when I was 12, and I only made it to pu a bunch of easter eggs in
 
-### More Information
-
-I intend to become proficient enough to get a job in InfoSec(Information Security) by the age of 20
 
 ### Contact me
 
-[natfish20@gmail.com](mailto:natfish20@gmail.com)
+[23schneidersha@kingsleyschools.org](mailto:23schneidersha@kingsleyschools.org)
